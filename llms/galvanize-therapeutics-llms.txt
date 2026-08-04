@@ -1,0 +1,40 @@
+# Galvanize Therapeutics
+
+> Galvanize Therapeutics, Inc. is a Redwood City, California medical device company founded in 2015 by Jonathan Waldstreicher, MD and William Krimsky, MD, and created and incubated by Apple Tree Partners (ATP). Galvanize develops pulsed electric field (PEF) therapies that deliver high-voltage, short-duration energy locally to alter the transmembrane potential of targeted cells, inducing non-thermal regulated cell death without denaturing cellular proteins or the extracellular matrix. Its Aliya PEF System is cleared for surgical ablation of soft tissue and is being studied in non-small cell lung cancer; RheOx addresses chronic bronchitis in the airway. As of this profile the company publishes no public API, SDK, developer portal, or machine-readable interface.
+
+## Company
+- [Website](https://galvanizetx.com/): pulsed electric field therapies at the convergence of engineering, biology, and healthcare delivery
+- [About](https://galvanizetx.com/about/): founding, leadership, and investors — ATP (Apple Tree Partners), Intuitive Surgical, Gilmartin Capital, T. Rowe Price, Sofinnova Partners, Norwest Venture Partners
+- [Platform](https://galvanizetx.com/platform/): the pulsed electric field (PEF) energy platform
+- [Products & Pipeline](https://galvanizetx.com/products-pipeline/): Aliya PEF System, Aliya EX Generator, RheOx
+- [Disease Focus](https://galvanizetx.com/disease-focus/): pulmonary, oncology, and adjacent disease areas
+- [Data](https://galvanizetx.com/data/): clinical data and study results
+- [Careers](https://galvanizetx.com/careers/): open roles
+- [Contact](https://galvanizetx.com/contact-us/): info@galvanizetx.com — 3200 Bridge Parkway, Redwood City, CA 94065
+
+## Audiences
+- [Physicians](https://galvanizetx.com/physicians/): clinician-facing product and procedure information
+- [Patients](https://galvanizetx.com/patients/): patient-facing therapy information
+
+## News
+- [News](https://galvanizetx.com/news/): company announcements and clinical milestones
+- [News RSS](https://galvanizetx.com/feed/): RSS 2.0 feed of company announcements
+
+## Legal
+- [Terms of Use](https://galvanizetx.com/terms-of-use/)
+- [Privacy Policy](https://galvanizetx.com/privacy-policy/)
+
+## Network
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/galvanize-therapeutics/refs/heads/main/apis.yml): API Evangelist network profile for Galvanize Therapeutics
+- [Domain Security](https://raw.githubusercontent.com/api-evangelist/galvanize-therapeutics/refs/heads/main/security/galvanize-therapeutics-domain-security.yml): probed TLS/DNS/email-authentication posture
+- [LinkedIn](https://www.linkedin.com/company/galvanize-therapeutics)
+- [Forge Global listing](https://forgeglobal.com/galvanize-therapeutics_stock/): secondary-market private-company profile
+
+## Notes
+- No public REST or GraphQL API, OpenAPI/AsyncAPI specification, SDK, CLI, MCP server, or A2A agent card is published at this time.
+- Probed and missed on galvanizetx.com: /.well-known/security.txt, /.well-known/agent-card.json, /.well-known/agent.json, /.well-known/openid-configuration, /.well-known/oauth-authorization-server, /.well-known/api-catalog, /.well-known/ai-plugin.json, /llms.txt, /openapi.json, /swagger.json, /api-docs (all 404).
+- No api., developer., docs., portal., status., or trust. subdomain resolves in DNS.
+- No first-party GitHub organization, npm/PyPI/Maven package, or published client library was found.
+- Engagement is clinical and commercial (physicians, hospitals, clinical trials), not a self-serve developer platform.
+
+<!-- generated: 2026-08-04 | method: generated | source: apis.yml + galvanizetx.com (searched) -->

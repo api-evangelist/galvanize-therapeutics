@@ -1,17 +1,34 @@
 aid: galvanize-therapeutics
 name: Galvanize Therapeutics
-description: 'Galvanize Therapeutics is a company surfaced via the API Evangelist harvest backlog (source:
-  secondary-market) and added to the network as a stub for full-pipeline profiling.'
+description: 'Galvanize Therapeutics, Inc. is a Redwood City, California medical device
+  company founded in 2015 by Jonathan Waldstreicher, MD and William Krimsky, MD, and
+  created and incubated by Apple Tree Partners (ATP). Galvanize develops pulsed electric
+  field (PEF) therapies that deliver high-voltage, short-duration energy locally to
+  alter the transmembrane potential of targeted cells, inducing non-thermal regulated
+  cell death without denaturing cellular proteins or the extracellular matrix. Its
+  Aliya PEF System is cleared for surgical ablation of soft tissue and is being studied
+  in non-small cell lung cancer, while RheOx addresses chronic bronchitis in the airway.
+  The company received FDA 510(k) clearance for the Aliya EX Generator in May 2026.
+  Galvanize is a privately held, clinically-focused device manufacturer and publishes
+  no public developer program, API, SDK, or machine-readable interface.'
 url: https://raw.githubusercontent.com/api-evangelist/galvanize-therapeutics/refs/heads/main/apis.yml
+image: https://galvanizetx.com/wp-content/uploads/Galvanize-G-Favicon.svg
 x-type: company
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+x-tier: profile
+x-tier-reason: enriched
 specificationVersion: '0.20'
 created: '2026-08-04'
 modified: '2026-08-04'
 tags:
 - Company
+- Medical Devices
+- Health Care
+- Oncology
+- Pulmonology
+- Medical Technology
+- Life Sciences
+- Ablation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +36,34 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/galvanize-therapeutics-domain-security.yml
+- type: LLMsTxt
+  url: llms/galvanize-therapeutics-llms.txt
 - type: Website
+  url: https://galvanizetx.com/
+- type: About
+  url: https://galvanizetx.com/about/
+- type: Blog
+  url: https://galvanizetx.com/news/
+- type: BlogRSS
+  url: https://galvanizetx.com/feed/
+- type: Support
+  url: https://galvanizetx.com/contact-us/
+- type: TermsOfService
+  url: https://galvanizetx.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://galvanizetx.com/privacy-policy/
+- type: Careers
+  url: https://galvanizetx.com/careers/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/galvanize-therapeutics
+- type: Products
+  url: https://galvanizetx.com/products-pipeline/
+- type: Investors
   url: https://forgeglobal.com/galvanize-therapeutics_stock/
+x-enrichment:
+  date: '2026-08-04'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

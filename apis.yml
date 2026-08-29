@@ -12,6 +12,17 @@ description: 'Galvanize Therapeutics, Inc. is a Redwood City, California medical
   Galvanize is a privately held, clinically-focused device manufacturer and publishes
   no public developer program, API, SDK, or machine-readable interface.'
 url: https://raw.githubusercontent.com/api-evangelist/galvanize-therapeutics/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://galvanizetx.com/wp-content/uploads/Galvanize-G-Favicon.svg
 x-type: company
 x-source: harvest:secondary-market

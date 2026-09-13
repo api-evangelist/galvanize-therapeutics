@@ -10,10 +10,21 @@
     },
     {
       "source": "https://galvanizetx.com/about/",
-      "feed_url": "https://galvanizetx.com/about/blog/feed/",
+      "feed_url": "https://galvanizetx.com/feed/",
       "title": "",
       "saved": 0,
       "method": "discovered"
+    },
+    {
+      "source": "https://galvanizetx.com/news/feed/",
+      "feed_url": "https://galvanizetx.com/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://galvanizetx.com/about/blog/feed/",
+      "error": "HTTPError"
     },
     {
       "source": "https://galvanizetx.com/feed/",
@@ -23,6 +34,6 @@
       "method": "feed"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-09-06T19:17:18Z"
+  "post_count": 9,
+  "fetched": "2026-09-13T13:00:00Z"
 }

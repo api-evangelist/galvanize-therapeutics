@@ -23,10 +23,6 @@
       "method": "feed"
     },
     {
-      "source": "https://galvanizetx.com/about/blog/feed/",
-      "error": "HTTPError"
-    },
-    {
       "source": "https://galvanizetx.com/feed/",
       "feed_url": "https://galvanizetx.com/feed/",
       "title": "",
@@ -35,5 +31,5 @@
     }
   ],
   "post_count": 9,
-  "fetched": "2026-09-13T13:00:00Z"
+  "fetched": "2026-09-19T20:17:39Z"
 }
